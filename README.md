@@ -31,7 +31,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O Habit é um app para ajudar a rastrear os hábitos.
+
+- [Visite o Projeto Online](http://SaymonRezendeX.github.io/nlw-setup)
 
 ## 🔖 Layout
 
